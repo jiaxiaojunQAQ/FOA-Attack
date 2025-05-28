@@ -6,7 +6,7 @@ defaults:
 data:
   batch_size: 1
   num_samples: 100
-  output: "./FOA_Attack"
+  output: "./foa_attack_output"
   cle_data_path: "resources/images/bigscale"
   tgt_data_path: "resources/images/target_images"
 
